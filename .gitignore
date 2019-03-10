@@ -1,0 +1,10 @@
+# folders
+.vs/
+packages/
+obj/
+node_modules/
+bin/
+
+# files
+*.suo
+*.user
