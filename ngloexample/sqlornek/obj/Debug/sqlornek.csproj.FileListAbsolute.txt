@@ -1,9 +1,0 @@
-C:\orkun\nlog\ngloexample\sqlornek\bin\Debug\sqlornek.exe.config
-C:\orkun\nlog\ngloexample\sqlornek\bin\Debug\NLog.config
-C:\orkun\nlog\ngloexample\sqlornek\bin\Debug\sqlornek.exe
-C:\orkun\nlog\ngloexample\sqlornek\bin\Debug\sqlornek.pdb
-C:\orkun\nlog\ngloexample\sqlornek\bin\Debug\NLog.dll
-C:\orkun\nlog\ngloexample\sqlornek\bin\Debug\NLog.xml
-C:\orkun\nlog\ngloexample\sqlornek\obj\Debug\sqlornek.csprojResolveAssemblyReference.cache
-C:\orkun\nlog\ngloexample\sqlornek\obj\Debug\sqlornek.exe
-C:\orkun\nlog\ngloexample\sqlornek\obj\Debug\sqlornek.pdb
